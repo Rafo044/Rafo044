@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Rafael!
+# I’m Rafael!
 
 I’m currently learning and building in the world of data engineering and analytics.  
 My background so far is mostly self-taught – I’ve been focusing on Python, SQL, and everything related to working with real-world data: cleaning it, exploring it, visualizing it, and making it useful.
